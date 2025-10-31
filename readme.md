@@ -30,9 +30,7 @@
 
 *(Add your screenshots in a `screenshots` folder and update the paths below)*  
 
-![Home Screen](screenshots/home.png)  
-![Menu Screen](screenshots/menu.png)  
-![Cart Screen](screenshots/cart.png)  
+![Overall Project Presentation](Project/group_4_slides.pdf)  
 
 ---
 
